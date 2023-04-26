@@ -1,0 +1,97 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.498597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.362607Z",
+      "mimetype": null,
+      "name": "server.ipynb",
+      "path": "how_to/callbacks/server.ipynb",
+      "size": 1753,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.494597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.370607Z",
+      "mimetype": null,
+      "name": "async.ipynb",
+      "path": "how_to/callbacks/async.ipynb",
+      "size": 6676,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.498597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.366607Z",
+      "mimetype": null,
+      "name": "schedule.ipynb",
+      "path": "how_to/callbacks/schedule.ipynb",
+      "size": 3127,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.498597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.366607Z",
+      "mimetype": null,
+      "name": "session.ipynb",
+      "path": "how_to/callbacks/session.ipynb",
+      "size": 1228,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.498597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.374607Z",
+      "mimetype": null,
+      "name": "periodic.ipynb",
+      "path": "how_to/callbacks/periodic.ipynb",
+      "size": 5454,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.498597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:52.498597Z",
+      "mimetype": null,
+      "name": "examples",
+      "path": "how_to/callbacks/examples",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.498597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.366607Z",
+      "mimetype": null,
+      "name": "load.ipynb",
+      "path": "how_to/callbacks/load.ipynb",
+      "size": 3381,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-04-26T11:38:52.498597Z",
+  "format": "json",
+  "last_modified": "2023-04-26T11:38:52.498597Z",
+  "mimetype": null,
+  "name": "callbacks",
+  "path": "how_to/callbacks",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

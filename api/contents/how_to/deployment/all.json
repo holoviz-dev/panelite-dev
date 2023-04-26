@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.506597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.318607Z",
+      "mimetype": null,
+      "name": "gcp.ipynb",
+      "path": "how_to/deployment/gcp.ipynb",
+      "size": 2752,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.506597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.318607Z",
+      "mimetype": null,
+      "name": "binder.ipynb",
+      "path": "how_to/deployment/binder.ipynb",
+      "size": 1893,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.506597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.314607Z",
+      "mimetype": null,
+      "name": "huggingface.ipynb",
+      "path": "how_to/deployment/huggingface.ipynb",
+      "size": 2923,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.506597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.314607Z",
+      "mimetype": null,
+      "name": "azure.ipynb",
+      "path": "how_to/deployment/azure.ipynb",
+      "size": 2064,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.506597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.314607Z",
+      "mimetype": null,
+      "name": "heroku.ipynb",
+      "path": "how_to/deployment/heroku.ipynb",
+      "size": 2387,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.502597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.318607Z",
+      "mimetype": null,
+      "name": "ae5.ipynb",
+      "path": "how_to/deployment/ae5.ipynb",
+      "size": 489,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-04-26T11:38:52.506597Z",
+  "format": "json",
+  "last_modified": "2023-04-26T11:38:52.506597Z",
+  "mimetype": null,
+  "name": "deployment",
+  "path": "how_to/deployment",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

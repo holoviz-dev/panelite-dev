@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.210598Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:37:22.338830Z",
+      "mimetype": "image/png",
+      "name": "pyodide_app_simple.png",
+      "path": "_static/images/pyodide_app_simple.png",
+      "size": 2969,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.210598Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:37:22.338830Z",
+      "mimetype": "image/png",
+      "name": "pyodide_xgboost_app.png",
+      "path": "_static/images/pyodide_xgboost_app.png",
+      "size": 56269,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.210598Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:37:22.338830Z",
+      "mimetype": "image/png",
+      "name": "basic_auth.png",
+      "path": "_static/images/basic_auth.png",
+      "size": 24440,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2023-04-26T11:38:52.210598Z",
+  "format": "json",
+  "last_modified": "2023-04-26T11:38:52.210598Z",
+  "mimetype": null,
+  "name": "images",
+  "path": "_static/images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

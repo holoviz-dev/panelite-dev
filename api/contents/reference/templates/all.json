@@ -1,0 +1,97 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.550597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.766606Z",
+      "mimetype": null,
+      "name": "GoldenLayout.ipynb",
+      "path": "reference/templates/GoldenLayout.ipynb",
+      "size": 6637,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.550597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.770606Z",
+      "mimetype": null,
+      "name": "Material.ipynb",
+      "path": "reference/templates/Material.ipynb",
+      "size": 6247,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.546597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.774606Z",
+      "mimetype": null,
+      "name": "FastGridTemplate.ipynb",
+      "path": "reference/templates/FastGridTemplate.ipynb",
+      "size": 114387,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.550597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.774606Z",
+      "mimetype": null,
+      "name": "React.ipynb",
+      "path": "reference/templates/React.ipynb",
+      "size": 7656,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.546597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.774606Z",
+      "mimetype": null,
+      "name": "Bootstrap.ipynb",
+      "path": "reference/templates/Bootstrap.ipynb",
+      "size": 6218,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.550597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.778606Z",
+      "mimetype": null,
+      "name": "FastListTemplate.ipynb",
+      "path": "reference/templates/FastListTemplate.ipynb",
+      "size": 10057,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.550597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.778606Z",
+      "mimetype": null,
+      "name": "Vanilla.ipynb",
+      "path": "reference/templates/Vanilla.ipynb",
+      "size": 6108,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-04-26T11:38:52.550597Z",
+  "format": "json",
+  "last_modified": "2023-04-26T11:38:52.550597Z",
+  "mimetype": null,
+  "name": "templates",
+  "path": "reference/templates",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.506597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.450607Z",
+      "mimetype": null,
+      "name": "embedding.ipynb",
+      "path": "how_to/export/embedding.ipynb",
+      "size": 3066,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.510597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.446607Z",
+      "mimetype": null,
+      "name": "saving.ipynb",
+      "path": "how_to/export/saving.ipynb",
+      "size": 1489,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.506597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.450607Z",
+      "mimetype": null,
+      "name": "bokeh.ipynb",
+      "path": "how_to/export/bokeh.ipynb",
+      "size": 2464,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-04-26T11:38:52.510597Z",
+  "format": "json",
+  "last_modified": "2023-04-26T11:38:52.510597Z",
+  "mimetype": null,
+  "name": "export",
+  "path": "how_to/export",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

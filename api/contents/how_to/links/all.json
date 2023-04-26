@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.514597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.298607Z",
+      "mimetype": null,
+      "name": "link_plots.ipynb",
+      "path": "how_to/links/link_plots.ipynb",
+      "size": 5269,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.514597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:52.514597Z",
+      "mimetype": null,
+      "name": "examples",
+      "path": "how_to/links/examples",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.514597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.294607Z",
+      "mimetype": null,
+      "name": "jslinks.ipynb",
+      "path": "how_to/links/jslinks.ipynb",
+      "size": 6234,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.514597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.294607Z",
+      "mimetype": null,
+      "name": "links.ipynb",
+      "path": "how_to/links/links.ipynb",
+      "size": 4601,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.514597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.306607Z",
+      "mimetype": null,
+      "name": "watchers.ipynb",
+      "path": "how_to/links/watchers.ipynb",
+      "size": 7746,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.514597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.298607Z",
+      "mimetype": null,
+      "name": "jscallbacks.ipynb",
+      "path": "how_to/links/jscallbacks.ipynb",
+      "size": 3222,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-04-26T11:38:52.514597Z",
+  "format": "json",
+  "last_modified": "2023-04-26T11:38:52.514597Z",
+  "mimetype": null,
+  "name": "links",
+  "path": "how_to/links",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

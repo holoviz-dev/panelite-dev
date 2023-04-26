@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.514597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.306607Z",
+      "mimetype": null,
+      "name": "plotly.ipynb",
+      "path": "how_to/links/examples/plotly.ipynb",
+      "size": 2462,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.514597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.310607Z",
+      "mimetype": null,
+      "name": "holoviews_glyph_link.ipynb",
+      "path": "how_to/links/examples/holoviews_glyph_link.ipynb",
+      "size": 2994,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.514597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.314607Z",
+      "mimetype": null,
+      "name": "vega_link.ipynb",
+      "path": "how_to/links/examples/vega_link.ipynb",
+      "size": 4057,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.514597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.306607Z",
+      "mimetype": null,
+      "name": "deckgl.ipynb",
+      "path": "how_to/links/examples/deckgl.ipynb",
+      "size": 3634,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.514597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.310607Z",
+      "mimetype": null,
+      "name": "bokeh_property_editor.ipynb",
+      "path": "how_to/links/examples/bokeh_property_editor.ipynb",
+      "size": 5741,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-04-26T11:38:52.514597Z",
+  "format": "json",
+  "last_modified": "2023-04-26T11:38:52.514597Z",
+  "mimetype": null,
+  "name": "examples",
+  "path": "how_to/links/examples",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

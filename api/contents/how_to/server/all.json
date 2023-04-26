@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.522597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.274607Z",
+      "mimetype": null,
+      "name": "ssh.ipynb",
+      "path": "how_to/server/ssh.ipynb",
+      "size": 2517,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.522597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.270607Z",
+      "mimetype": null,
+      "name": "static_files.ipynb",
+      "path": "how_to/server/static_files.ipynb",
+      "size": 1002,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.522597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.270607Z",
+      "mimetype": null,
+      "name": "programmatic.ipynb",
+      "path": "how_to/server/programmatic.ipynb",
+      "size": 3941,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.522597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.274607Z",
+      "mimetype": null,
+      "name": "proxy.ipynb",
+      "path": "how_to/server/proxy.ipynb",
+      "size": 674,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.522597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.274607Z",
+      "mimetype": null,
+      "name": "commandline.ipynb",
+      "path": "how_to/server/commandline.ipynb",
+      "size": 11101,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-04-26T11:38:52.522597Z",
+      "format": null,
+      "last_modified": "2023-04-26T11:38:48.274607Z",
+      "mimetype": null,
+      "name": "multiple.ipynb",
+      "path": "how_to/server/multiple.ipynb",
+      "size": 1846,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-04-26T11:38:52.522597Z",
+  "format": "json",
+  "last_modified": "2023-04-26T11:38:52.522597Z",
+  "mimetype": null,
+  "name": "server",
+  "path": "how_to/server",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
