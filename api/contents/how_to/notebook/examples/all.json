@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-08-26T16:38:56.660613Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-26T16:38:48.250710Z",
+      "mimetype": null,
+      "name": "hello_world.ipynb",
+      "path": "how_to/notebook/examples/hello_world.ipynb",
+      "size": 673,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-08-26T16:38:56.660613Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-08-26T16:38:56.660613Z",
+  "mimetype": null,
+  "name": "examples",
+  "path": "how_to/notebook/examples",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

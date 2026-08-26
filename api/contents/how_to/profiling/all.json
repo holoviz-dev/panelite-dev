@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-08-26T16:38:56.669419Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-26T16:38:48.106087Z",
+      "mimetype": null,
+      "name": "logs.ipynb",
+      "path": "how_to/profiling/logs.ipynb",
+      "size": 1192,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-08-26T16:38:56.669680Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-26T16:38:48.106709Z",
+      "mimetype": null,
+      "name": "profile.ipynb",
+      "path": "how_to/profiling/profile.ipynb",
+      "size": 3283,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-08-26T16:38:56.669110Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-26T16:38:48.107345Z",
+      "mimetype": null,
+      "name": "admin.ipynb",
+      "path": "how_to/profiling/admin.ipynb",
+      "size": 2002,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-08-26T16:38:56.669680Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-08-26T16:38:56.669680Z",
+  "mimetype": null,
+  "name": "profiling",
+  "path": "how_to/profiling",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

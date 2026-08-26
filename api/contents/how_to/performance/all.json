@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-08-26T16:38:56.665640Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-26T16:38:48.140280Z",
+      "mimetype": null,
+      "name": "hold.ipynb",
+      "path": "how_to/performance/hold.ipynb",
+      "size": 4354,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-08-26T16:38:56.666336Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-26T16:38:48.137709Z",
+      "mimetype": null,
+      "name": "throttling.ipynb",
+      "path": "how_to/performance/throttling.ipynb",
+      "size": 1418,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-08-26T16:38:56.666007Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-26T16:38:48.138448Z",
+      "mimetype": null,
+      "name": "reuse_sessions.ipynb",
+      "path": "how_to/performance/reuse_sessions.ipynb",
+      "size": 4287,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-08-26T16:38:56.666336Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-08-26T16:38:56.666336Z",
+  "mimetype": null,
+  "name": "performance",
+  "path": "how_to/performance",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-08-26T16:38:56.639986Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-26T16:38:48.206729Z",
+      "mimetype": null,
+      "name": "create_custom_widget.ipynb",
+      "path": "how_to/custom_components/python/create_custom_widget.ipynb",
+      "size": 8712,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-08-26T16:38:56.639986Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-08-26T16:38:56.639986Z",
+  "mimetype": null,
+  "name": "python",
+  "path": "how_to/custom_components/python",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

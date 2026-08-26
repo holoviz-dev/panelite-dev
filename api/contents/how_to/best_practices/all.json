@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-08-26T16:38:56.623456Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-26T16:38:48.065708Z",
+      "mimetype": null,
+      "name": "dev_experience.ipynb",
+      "path": "how_to/best_practices/dev_experience.ipynb",
+      "size": 18998,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-08-26T16:38:56.623777Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-26T16:38:48.057708Z",
+      "mimetype": null,
+      "name": "user_experience.ipynb",
+      "path": "how_to/best_practices/user_experience.ipynb",
+      "size": 16632,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-08-26T16:38:56.623777Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-08-26T16:38:56.623777Z",
+  "mimetype": null,
+  "name": "best_practices",
+  "path": "how_to/best_practices",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
