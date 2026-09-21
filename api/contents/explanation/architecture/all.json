@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-09-21T13:42:12.040084Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-21T13:42:02.825183Z",
+      "mimetype": null,
+      "name": "comms.ipynb",
+      "path": "explanation/architecture/comms.ipynb",
+      "size": 6372,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-09-21T13:42:12.040084Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-09-21T13:42:12.040084Z",
+  "mimetype": null,
+  "name": "architecture",
+  "path": "explanation/architecture",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

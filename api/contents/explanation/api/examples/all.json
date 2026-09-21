@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-09-21T13:42:12.037672Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-21T13:42:02.876644Z",
+      "mimetype": null,
+      "name": "stocks_declarative.ipynb",
+      "path": "explanation/api/examples/stocks_declarative.ipynb",
+      "size": 4186,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-09-21T13:42:12.037971Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-21T13:42:02.877896Z",
+      "mimetype": null,
+      "name": "stocks_reactive.ipynb",
+      "path": "explanation/api/examples/stocks_reactive.ipynb",
+      "size": 3648,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-09-21T13:42:12.037096Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-21T13:42:02.881426Z",
+      "mimetype": null,
+      "name": "outliers_declarative.ipynb",
+      "path": "explanation/api/examples/outliers_declarative.ipynb",
+      "size": 7643,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-09-21T13:42:12.037388Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-21T13:42:02.878426Z",
+      "mimetype": null,
+      "name": "stocks_callbacks.ipynb",
+      "path": "explanation/api/examples/stocks_callbacks.ipynb",
+      "size": 4234,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-09-21T13:42:12.037971Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-09-21T13:42:12.037971Z",
+  "mimetype": null,
+  "name": "examples",
+  "path": "explanation/api/examples",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

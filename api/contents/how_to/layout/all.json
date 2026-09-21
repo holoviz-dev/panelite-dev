@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-09-21T13:42:12.084625Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-21T13:42:03.042427Z",
+      "mimetype": null,
+      "name": "size.ipynb",
+      "path": "how_to/layout/size.ipynb",
+      "size": 15497,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-09-21T13:42:12.083920Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-21T13:42:03.046851Z",
+      "mimetype": null,
+      "name": "align.ipynb",
+      "path": "how_to/layout/align.ipynb",
+      "size": 2153,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-09-21T13:42:12.084302Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-21T13:42:12.084302Z",
+      "mimetype": null,
+      "name": "examples",
+      "path": "how_to/layout/examples",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-09-21T13:42:12.084929Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-21T13:42:03.045464Z",
+      "mimetype": null,
+      "name": "spacing.ipynb",
+      "path": "how_to/layout/spacing.ipynb",
+      "size": 3529,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-09-21T13:42:12.084625Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-09-21T13:42:12.084625Z",
+  "mimetype": null,
+  "name": "layout",
+  "path": "how_to/layout",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
