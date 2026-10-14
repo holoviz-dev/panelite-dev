@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-10-14T22:21:16.582857Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-14T22:21:06.347967Z",
+      "mimetype": null,
+      "name": "standalone.ipynb",
+      "path": "how_to/wasm/standalone.ipynb",
+      "size": 9684,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-14T22:21:16.582734Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-14T22:21:06.349967Z",
+      "mimetype": null,
+      "name": "sphinx.ipynb",
+      "path": "how_to/wasm/sphinx.ipynb",
+      "size": 5466,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-14T22:21:16.582472Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-14T22:21:06.351239Z",
+      "mimetype": null,
+      "name": "convert.ipynb",
+      "path": "how_to/wasm/convert.ipynb",
+      "size": 12788,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-14T22:21:16.582614Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-14T22:21:06.351660Z",
+      "mimetype": null,
+      "name": "jupyterlite.ipynb",
+      "path": "how_to/wasm/jupyterlite.ipynb",
+      "size": 2794,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-10-14T22:21:16.582857Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-10-14T22:21:16.582857Z",
+  "mimetype": null,
+  "name": "wasm",
+  "path": "how_to/wasm",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

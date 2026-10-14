@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-10-14T22:21:16.574524Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-14T22:21:06.322970Z",
+      "mimetype": null,
+      "name": "control_flow.ipynb",
+      "path": "how_to/pipeline/control_flow.ipynb",
+      "size": 9901,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-14T22:21:16.574787Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-14T22:21:06.318202Z",
+      "mimetype": null,
+      "name": "simple_pipeline.ipynb",
+      "path": "how_to/pipeline/simple_pipeline.ipynb",
+      "size": 10906,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-14T22:21:16.574664Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-14T22:21:06.319628Z",
+      "mimetype": null,
+      "name": "pipeline_layout.ipynb",
+      "path": "how_to/pipeline/pipeline_layout.ipynb",
+      "size": 5029,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-14T22:21:16.574369Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-14T22:21:06.321707Z",
+      "mimetype": null,
+      "name": "complex_pipeline.ipynb",
+      "path": "how_to/pipeline/complex_pipeline.ipynb",
+      "size": 7956,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-10-14T22:21:16.574787Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-10-14T22:21:16.574787Z",
+  "mimetype": null,
+  "name": "pipeline",
+  "path": "how_to/pipeline",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

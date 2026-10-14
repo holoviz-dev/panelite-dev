@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-10-14T22:21:16.577409Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-14T22:21:16.577409Z",
+      "mimetype": null,
+      "name": "examples",
+      "path": "how_to/state/examples",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-14T22:21:16.577211Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-14T22:21:06.369970Z",
+      "mimetype": null,
+      "name": "busy.ipynb",
+      "path": "how_to/state/busy.ipynb",
+      "size": 3093,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-14T22:21:16.577549Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-14T22:21:06.368993Z",
+      "mimetype": null,
+      "name": "request.ipynb",
+      "path": "how_to/state/request.ipynb",
+      "size": 1722,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-14T22:21:16.577668Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-14T22:21:06.370489Z",
+      "mimetype": null,
+      "name": "url.ipynb",
+      "path": "how_to/state/url.ipynb",
+      "size": 4201,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-10-14T22:21:16.577549Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-10-14T22:21:16.577549Z",
+  "mimetype": null,
+  "name": "state",
+  "path": "how_to/state",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
