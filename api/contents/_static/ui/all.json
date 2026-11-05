@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-05T15:40:34.745996Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-05T15:39:52.389943Z",
+      "mimetype": "image/png",
+      "name": "orbitron-light.png",
+      "path": "_static/ui/orbitron-light.png",
+      "size": 126249,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-05T15:40:34.745996Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-05T15:40:34.745996Z",
+  "mimetype": null,
+  "name": "ui",
+  "path": "_static/ui",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
