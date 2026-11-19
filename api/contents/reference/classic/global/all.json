@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-19T20:59:52.458724Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-19T20:59:42.281593Z",
+      "mimetype": null,
+      "name": "Notifications.ipynb",
+      "path": "reference/classic/global/Notifications.ipynb",
+      "size": 6386,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-19T20:59:52.458724Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-19T20:59:52.458724Z",
+  "mimetype": null,
+  "name": "global",
+  "path": "reference/classic/global",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

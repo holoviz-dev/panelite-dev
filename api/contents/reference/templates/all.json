@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-19T20:59:52.498764Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-19T20:59:45.521408Z",
+      "mimetype": null,
+      "name": "BreakpointSwitcher.ipynb",
+      "path": "reference/templates/BreakpointSwitcher.ipynb",
+      "size": 4688,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-19T20:59:52.498518Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-19T20:59:45.518390Z",
+      "mimetype": null,
+      "name": "AppBar.ipynb",
+      "path": "reference/templates/AppBar.ipynb",
+      "size": 8525,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-19T20:59:52.498954Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-19T20:59:45.527741Z",
+      "mimetype": null,
+      "name": "Page.ipynb",
+      "path": "reference/templates/Page.ipynb",
+      "size": 18565,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-19T20:59:52.499157Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-19T20:59:45.531264Z",
+      "mimetype": null,
+      "name": "ThemeToggle.ipynb",
+      "path": "reference/templates/ThemeToggle.ipynb",
+      "size": 3387,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-19T20:59:52.499157Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-19T20:59:52.499157Z",
+  "mimetype": null,
+  "name": "templates",
+  "path": "reference/templates",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
